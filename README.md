@@ -8,3 +8,7 @@ Executive Summary
 The current intellectual property system creates artificial scarcity through restrictive licensing, unused patent portfolios, and gatekeeping
 mechanisms that stifle innovation. This document proposes ValueFlow, a Universal IP Revenue Sharing System that automatically splits value 50/50
 between original IP holders and IP reusers, eliminating licensing barriers while ensuring fair compensation for all participants in the innovation ecosystem.
+
+© 2025 Slavko Stojnić, 
+All Rights Reserved 
+(Hopefully Not For Long)
