@@ -9,7 +9,7 @@
 
 This license establishes two things simultaneously.
 
-First, it claims complete ownership of this Work by right of first public disclosure, with cryptographic proof of authorship and date. Second, it grants universal access to use the Work, on the condition that any revenue generated from its use is shared with the Author.
+First, it claims complete ownership of this Work by right of first public disclosure, with cryptographic proof of authorship and date. Second, it grants universal access to use the Work, on the condition that any profit generated from its use is shared with the Author.
 
 The result is a Work that is fully owned and fully accessible. The Author is compensated. The world benefits. Nothing sits unused behind a locked door.
 
@@ -70,7 +70,7 @@ This license does not expire. There are no renewal fees, maintenance payments, o
 
 Despite the all-rights-reserved status declared in Part One, the Author grants universal, worldwide, perpetual access to use, implement, manufacture, adapt, and build upon the Work, subject to the conditions in this Part.
 
-Any party that generates revenue from the use of this Work, or from any derivative of this Work, must compensate the Author according to the pricing model declared below.
+Any party that generates profit from the use of this Work, or from any derivative of this Work, must compensate the Author according to the pricing model declared below.
 
 ### VII. Pricing Model
 
@@ -87,9 +87,9 @@ The Author declares a minimum cost per unit produced, per instance deployed, or 
 
 The minimum is a floor. The user may pay above it. The Author does not negotiate it downward.
 
-#### Model B: Revenue Share
+#### Model B: Profit Share
 
-The Author declares a percentage of gross revenue owed per transaction, sale, subscription, or other revenue event derived from the Work or any derivative.
+The Author declares a percentage of profit owed from each transaction, sale, subscription, or other income event derived from the Work or any derivative.
 
 | Share | Percentage |
 |---|---|
@@ -98,11 +98,11 @@ The Author declares a percentage of gross revenue owed per transaction, sale, su
 
 If no percentage is declared, the default is 50/50.
 
-Revenue share is calculated on **net profit**: the amount remaining after the user's verified costs of production, materials, labor, distribution, and delivery are deducted from the sale price. Taxes owed to governments are also excluded, as they are not retained by either party.
+Profit means the income remaining after the user's verified costs of production, materials, labor, distribution, and delivery are deducted from the total amount received. Taxes owed to governments are excluded, as they are not retained by either party.
 
 The user's pre-use declaration (Section VIII) establishes the projected cost structure before production begins. This projection serves as the audit baseline. If the user's reported costs at settlement diverge materially from the declared projections without documented justification, the Author may treat the discrepancy as a breach of the declaration and pursue remedies under Section XV.
 
-The Author's share is a share of the value the user actually captured — not of the user's total receipts before the cost of doing business.
+The Author may explicitly agree to alternative cost-accounting terms for a specific use case. Absent such agreement, the definition above applies.
 
 #### Model C: Hybrid
 
@@ -157,11 +157,11 @@ Where the protocol is not yet available or not adopted by both parties, the obli
 
 When a product incorporates works from multiple Authors, each under APC-VF, each Author's declared cost is independent and additive. The total intellectual property cost of the product is the sum of all applicable Authors' terms.
 
-The pre-use declaration must list every APC-VF licensed work used in the product. This list serves as attribution, as an auditable record linking revenue to the Authors who made it possible, and as a public ledger of which intellectual contributions underlie the product.
+The pre-use declaration must list every APC-VF licensed work used in the product. This list serves as attribution, as an auditable record linking profit to the Authors who made it possible, and as a public ledger of which intellectual contributions underlie the product.
 
-### XII. Non-Revenue Use
+### XII. Non-Commercial Use
 
-Use of the Work that generates no revenue — including personal use, education, academic research, and non-commercial experimentation — is permitted without charge, provided the user includes attribution as specified in Section XIII. Revenue-generating use activates the pricing model immediately upon the first revenue event.
+Use of the Work that generates no profit — including personal use, education, academic research, and non-commercial experimentation — is permitted without charge, provided the user includes attribution as specified in Section XIII. The pricing model activates the moment the user derives profit from the Work.
 
 ---
 
@@ -181,7 +181,7 @@ Removal or concealment of attribution voids the grant of use under Part Two and 
 
 Payments may be settled through any mechanism agreed between the Author and user, including direct transfer, payment platform integration, periodic batch settlement, automated point-of-sale splitting, or programmatic contract execution.
 
-In the absence of an explicit agreement, the user must report usage and revenue quarterly and settle within 30 days of each report.
+In the absence of an explicit agreement, the user must report usage and profit quarterly and settle within 30 days of each report.
 
 ### XV. Infringement
 
@@ -215,7 +215,7 @@ If any provision of this license is found unenforceable in a given jurisdiction,
 
 ### XX. Acceptance
 
-By accessing, using, implementing, or building upon the Work, you accept the terms of this license in full: the authorship claim, the revenue-sharing obligation, the attribution requirement, and the pre-use declaration obligation.
+By accessing, using, implementing, or building upon the Work, you accept the terms of this license in full: the authorship claim, the profit-sharing obligation, the attribution requirement, and the pre-use declaration obligation.
 
 ---
 
@@ -233,4 +233,4 @@ See `VERIFY.md` for the manual timestamp process and automated workflow setup.
 
 **© Slavko Stojnić — 2026. All rights reserved.**
 **Authorship & Patent Claim established by public record.**
-**Universal access granted under ValueFlow revenue sharing.**
+**Universal access granted under ValueFlow profit sharing.**
