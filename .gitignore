@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.vs/
+
+# Optional local build/temp outputs.
+dist/
+build/
+tmp/
+*.log
