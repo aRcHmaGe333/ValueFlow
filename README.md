@@ -1,4 +1,4 @@
-ValueFlow: Universal IP Revenue Sharing System
+﻿ValueFlow: Universal IP Revenue Sharing System
 Transforming Intellectual Property from Scarcity to Abundance 
 
 PRIOR ART DISCLOSURE - AUGUST 29, 2025, 11:45 PM CEST (Stockholm)
@@ -14,3 +14,11 @@ For the complete specification including definitions, implementation variants, e
 © 2025 Slavko Stojnić, 
 All Rights Reserved 
 (Hopefully Not For Long)
+## Support This Work
+
+If this project is useful to you, consider supporting ongoing independent development.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20this%20work-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/earthcraft)
+
+Direct link: https://ko-fi.com/earthcraft
+
