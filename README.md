@@ -1,9 +1,7 @@
 ﻿ValueFlow: Universal IP Revenue Sharing System
-Transforming Intellectual Property from Scarcity to Abundance 
-
 PRIOR ART DISCLOSURE - AUGUST 29, 2025, 11:45 PM CEST (Stockholm)
 
-Executive Summary
+## What it does
 
 People who want to build on someone else's work often face licensing barriers. Meanwhile, the original creator may earn nothing from later improvements.
 
